@@ -58,7 +58,7 @@ download: https://example.com/a.zip https://example.com/b.pdf https://example.co
 
 ---
 
-### Download and archive into a single ZIP
+### Download and archive into a singlle ZIP
 
 Downloads all files and bundles them into one timestamped `.zip` archive saved to `downloads/`.
 
